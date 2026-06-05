@@ -1,0 +1,6 @@
+{
+  "name": "Centre Dentaire Mahaj Sala",
+  "description": "Modern website for Centre Dentaire Mahaj Sala - Dr. Iman Kammah",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
